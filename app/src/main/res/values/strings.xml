@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ayuda_texto">AYUDA!!! fragment</string>
+    <string name="jugada_texto">Ingrese un valor de 1 a 10 y sacudir el telefono para generar una jugada</string>
+</resources>

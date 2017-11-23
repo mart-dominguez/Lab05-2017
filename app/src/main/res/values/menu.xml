@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_lateral">
+        <item>Adivinar</item>
+        <item>Historial</item>
+        <item>Ayuda</item>
+    </string-array>
+</resources>
